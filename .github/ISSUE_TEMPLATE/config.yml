@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📚 Documentation
+    url: https://docs.notpixel.ai
+    about: Check our documentation before opening an issue
+  - name: 💬 Questions & Discussions
+    url: mailto:hello@notpixel.ai
+    about: For general questions, reach out via email
+  - name: 🔐 Security Vulnerabilities
+    url: mailto:security@notpixel.ai
+    about: Report security issues privately via email (do not open public issues)
